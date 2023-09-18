@@ -7,7 +7,7 @@ rss translate any to any
 
 you can edit [test.ini](https://github.com/endest/RSS-Translate/edit/main/test.ini) to add orginal rss url.
 
-next find the translated link in [https://talengu.github.io/rss-translate/](https://talengu.github.io/rss-translate/)
+next find the translated link in [https://github.com/endest/RSS-Translate/](https://github.com/endest/RSS-Translate/)
 
 ## rss translate links
 
