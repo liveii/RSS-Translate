@@ -11,4 +11,4 @@ next find the translated link in [https://talengu.github.io/rss-translate/](http
 
 ## rss translate links
 
-
+ - source001 [https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml](https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml) -> [ansa_it.xml](rss/ansa_it.xml)
