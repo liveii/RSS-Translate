@@ -20,3 +20,5 @@ next find the translated link in [https://github.com/endest/RSS-Translate/](http
  - source007 [https://www.iefimerida.gr/taxonomy/term/16/all/feed](https://www.iefimerida.gr/taxonomy/term/16/all/feed) -> [iefimerida.xml](rss/iefimerida.xml)
  - source008 [https://globalnation.inquirer.net/feed](https://globalnation.inquirer.net/feed) -> [inquirer.xml](rss/inquirer.xml)
  - source009 [https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6511](https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6511) -> [channelnewsasia.xml](rss/channelnewsasia.xml)
+ - source010 [https://rsshub.app/reuters/world/](https://rsshub.app/reuters/world/) -> [reuters.xml](rss/reuters.xml)
+ - source011 [https://www.t-online.de/nachrichten/ausland/feed.rss](https://www.t-online.de/nachrichten/ausland/feed.rss) -> [t_online.xml](rss/t_online.xml)
