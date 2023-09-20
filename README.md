@@ -19,3 +19,4 @@ next find the translated link in [https://github.com/endest/RSS-Translate/](http
  - source006 [https://www.la-prensa.com.mx/mundo/rss.xml](https://www.la-prensa.com.mx/mundo/rss.xml) -> [la_prensa.xml](rss/la_prensa.xml)
  - source007 [https://www.iefimerida.gr/taxonomy/term/16/all/feed](https://www.iefimerida.gr/taxonomy/term/16/all/feed) -> [iefimerida.xml](rss/iefimerida.xml)
  - source008 [https://globalnation.inquirer.net/feed](https://globalnation.inquirer.net/feed) -> [inquirer.xml](rss/inquirer.xml)
+ - source009 [https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6511](https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6511) -> [channelnewsasia.xml](rss/channelnewsasia.xml)
