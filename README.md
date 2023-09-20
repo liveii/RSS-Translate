@@ -18,3 +18,4 @@ next find the translated link in [https://github.com/endest/RSS-Translate/](http
  - source005 [https://oglobo.globo.com/rss/oglobo](https://oglobo.globo.com/rss/oglobo) -> [globo.xml](rss/globo.xml)
  - source006 [https://www.la-prensa.com.mx/mundo/rss.xml](https://www.la-prensa.com.mx/mundo/rss.xml) -> [la_prensa.xml](rss/la_prensa.xml)
  - source007 [https://www.iefimerida.gr/taxonomy/term/16/all/feed](https://www.iefimerida.gr/taxonomy/term/16/all/feed) -> [iefimerida.xml](rss/iefimerida.xml)
+ - source008 [https://globalnation.inquirer.net/feed](https://globalnation.inquirer.net/feed) -> [inquirer.xml](rss/inquirer.xml)
