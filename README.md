@@ -22,3 +22,4 @@ next find the translated link in [https://github.com/endest/RSS-Translate/](http
  - source009 [https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6511](https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6511) -> [channelnewsasia.xml](rss/channelnewsasia.xml)
  - source010 [https://rsshub.app/reuters/world/](https://rsshub.app/reuters/world/) -> [reuters.xml](rss/reuters.xml)
  - source011 [https://www.t-online.de/nachrichten/ausland/feed.rss](https://www.t-online.de/nachrichten/ausland/feed.rss) -> [t_online.xml](rss/t_online.xml)
+ - source012 [https://www.nhk.or.jp/rss/news/cat6.xml](https://www.nhk.or.jp/rss/news/cat6.xml) -> [nhk.xml](rss/nhk.xml)
