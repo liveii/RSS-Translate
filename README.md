@@ -19,5 +19,6 @@ next find the translated link in [https://github.com/endest/RSS-Translate/](http
  - source006 [https://www.iefimerida.gr/taxonomy/term/16/all/feed](https://www.iefimerida.gr/taxonomy/term/16/all/feed) -> [iefimerida.xml](rss/iefimerida.xml)
  - source007 [https://globalnation.inquirer.net/feed](https://globalnation.inquirer.net/feed) -> [inquirer.xml](rss/inquirer.xml)
  - source008 [https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6511](https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6511) -> [channelnewsasia.xml](rss/channelnewsasia.xml)
- - source009 [https://www.t-online.de/nachrichten/ausland/feed.rss](https://www.t-online.de/nachrichten/ausland/feed.rss) -> [t_online.xml](rss/t_online.xml)
- - source010 [https://www.nhk.or.jp/rss/news/cat6.xml](https://www.nhk.or.jp/rss/news/cat6.xml) -> [nhk.xml](rss/nhk.xml)
+ - source009 [https://www.nhk.or.jp/rss/news/cat6.xml](https://www.nhk.or.jp/rss/news/cat6.xml) -> [nhk.xml](rss/nhk.xml)
+ - source010 [https://e00-elmundo.uecdn.es/rss/internacional.xml](https://e00-elmundo.uecdn.es/rss/internacional.xml) -> [elmundo.xml](rss/elmundo.xml)
+ - source011 [https://www.haaretz.com/srv/haaretz-latest-headlines](https://www.haaretz.com/srv/haaretz-latest-headlines) -> [haaretz.xml](rss/haaretz.xml)
