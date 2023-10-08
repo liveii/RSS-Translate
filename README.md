@@ -22,3 +22,4 @@ next find the translated link in [https://github.com/endest/RSS-Translate/](http
  - source009 [https://www.nhk.or.jp/rss/news/cat6.xml](https://www.nhk.or.jp/rss/news/cat6.xml) -> [nhk.xml](rss/nhk.xml)
  - source010 [https://e00-elmundo.uecdn.es/rss/internacional.xml](https://e00-elmundo.uecdn.es/rss/internacional.xml) -> [elmundo.xml](rss/elmundo.xml)
  - source011 [https://www.haaretz.com/srv/haaretz-latest-headlines](https://www.haaretz.com/srv/haaretz-latest-headlines) -> [haaretz.xml](rss/haaretz.xml)
+ - source012 [https://www.arabnews.com/taxonomy/term/3/feed](https://www.arabnews.com/taxonomy/term/3/feed) -> [arabnews.xml](rss/arabnews.xml)
