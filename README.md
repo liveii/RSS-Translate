@@ -17,5 +17,5 @@ next find the translated link in [https://github.com/endest/RSS-Translate/](http
  - source004 [https://www.iefimerida.gr/taxonomy/term/16/all/feed](https://www.iefimerida.gr/taxonomy/term/16/all/feed) -> [iefimerida.xml](rss/iefimerida.xml)
  - source005 [https://globalnation.inquirer.net/feed](https://globalnation.inquirer.net/feed) -> [inquirer.xml](rss/inquirer.xml)
  - source006 [https://www.nhk.or.jp/rss/news/cat6.xml](https://www.nhk.or.jp/rss/news/cat6.xml) -> [nhk.xml](rss/nhk.xml)
- - source007 [https://www.haaretz.com/srv/haaretz-latest-headlines](https://www.haaretz.com/srv/haaretz-latest-headlines) -> [haaretz.xml](rss/haaretz.xml)
+ - source007 [https://www.haaretz.com/srv/israel-news-rss](https://www.haaretz.com/srv/israel-news-rss) -> [haaretz.xml](rss/haaretz.xml)
  - source008 [https://www.arabnews.com/taxonomy/term/3/feed](https://www.arabnews.com/taxonomy/term/3/feed) -> [arabnews.xml](rss/arabnews.xml)
