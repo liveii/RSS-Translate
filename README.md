@@ -16,3 +16,4 @@ next find the translated link in [https://github.com/endest/RSS-Translate/](http
  - source003 [https://www.cbc.ca/webfeed/rss/rss-world](https://www.cbc.ca/webfeed/rss/rss-world) -> [cbc.xml](rss/cbc.xml)
  - source004 [https://www.iefimerida.gr/taxonomy/term/16/all/feed](https://www.iefimerida.gr/taxonomy/term/16/all/feed) -> [iefimerida.xml](rss/iefimerida.xml)
  - source005 [https://globalnation.inquirer.net/feed](https://globalnation.inquirer.net/feed) -> [inquirer.xml](rss/inquirer.xml)
+ - source006 [https://www.nhk.or.jp/rss/news/cat6.xml](https://www.nhk.or.jp/rss/news/cat6.xml) -> [nhk.xml](rss/nhk.xml)
