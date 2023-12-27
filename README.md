@@ -12,3 +12,4 @@ next find the translated link in [https://github.com/endest/RSS-Translate/](http
 ## rss translate links
 
  - source001 [https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml](https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml) -> [ansa_it.xml](rss/ansa_it.xml)
+ - source002 [https://timesofindia.indiatimes.com/rssfeeds/296589292.cms](https://timesofindia.indiatimes.com/rssfeeds/296589292.cms) -> [indiatimes.xml](rss/indiatimes.xml)
